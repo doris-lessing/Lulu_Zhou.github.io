@@ -1,4 +1,7 @@
-##Lulu Zhou
-### about me
-### projects in progress
-### my blog
+## Lulu Zhou
+
+### About me
+
+### Projects in progress
+
+### My blog
