@@ -19,9 +19,10 @@ I am an fourth year undergraduate student major in data science, from Fudan Univ
   * ![View the project](https://github.com/doris-lessing/image-processing)
   
 ### Education
-- Fudan University: Undergraduate student at School of Management & School of Data Science
-- University of Toronto: Exchange student at Computer Science Department
-- Hong Kong Polytechnic University: Exchange student of product design summer session
+- **Fudan University:** Undergraduate student at School of Management & School of Data Science
+- **University of Toronto:** Exchange student at Computer Science Department
+- **Hong Kong Polytechnic University:** Exchange student of product design summer session
+- **Duke University:** Summer researcher
 
 ### Honours
 
