@@ -1,8 +1,17 @@
 ## Lulu Zhou
 
 ### About me
-
-I am an fourth year undergraduate student major in data science, from Fudan University.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Institution: Fudan University</b></p>
+      <p><b>Major: Statistics(Data Science)</b></p>
+    </td>
+    <td width="25%">
+      <img src="1.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 
 ### Projects in progress
 
