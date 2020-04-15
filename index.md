@@ -5,7 +5,7 @@
   <tr>
     <td width="75%">
       <p><b>Institution: Fudan University</b></p>
-      <p><b>Major: Statistics(Data Science)</b></p>
+      <p><b>Major: Statistics (Data Science)</b></p>
     </td>
     <td width="25%">
       <img src="./1.jpg" width="100%">      
