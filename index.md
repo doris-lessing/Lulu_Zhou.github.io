@@ -24,6 +24,9 @@ I am an fourth year undergraduate student major in data science, from Fudan Univ
 - **Hong Kong Polytechnic University:** Exchange student of product design summer session
 - **Duke University:** Summer researcher
 
+### Work Experience
+- **Duke Kunshan University:** Teaching Assistant
+
 ### Honours
 
 - First prize in CUPT(China University Physics Tournament)
