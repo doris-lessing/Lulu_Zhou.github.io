@@ -38,7 +38,7 @@
 
 ### Honours
 
-- First prize in CUPT(China University Physics Tournament)
+- First prize in CUPT (China University Physics Tournament)
 
   <img src="./0.jpg" width="20%" />
 
