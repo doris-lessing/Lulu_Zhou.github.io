@@ -26,5 +26,7 @@ I am an fourth year undergraduate student major in data science, from Fudan Univ
 ### Honours
 
 - First prize in CUPT(China University Physics Tournament)
-<img src='cupt.jpg', width='20%' />
+
+<img src="./0.jpg" width="10%" />
+
 - [Cargill global scholarship](https://www.cargillglobalscholars.com/)
