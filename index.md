@@ -2,24 +2,29 @@
 
 ### About me
 
-I am an fourth year undergraduate student major in data science, Fudan University.
+I am an fourth year undergraduate student major in data science, from Fudan University.
 
 ### Projects in progress
 
-- Analysis of blockchain attacks based on reinforcement learning
+1. Analysis of blockchain attacks based on reinforcement learning
   * This project aims to analyse the resilience of the bitcoin system to selfish mining attack using MDP model and simulation.
   * ![View the project](https://github.com/doris-lessing/Selfish-Mining-Simulator)
   
-- Social network analysis in chinese rural primary schools
+2. Social network analysis in chinese rural primary schools
   * We collected questionnaires about the background and social relationships of 227 primary school students when teaching as volunteers. This project focuses on the social network among the students.
   * ![View the project](https://github.com/doris-lessing/social-network-mining)
   
-- Image processing algorithms implements
+3. Image processing algorithms implements
   * This project is meant to implements some classical alogorithms in image processing to get a deeper understanding of them.
   * ![View the project](https://github.com/doris-lessing/image-processing)
   
+### Education
+- Fudan University: Undergraduate student at School of Management & School of Data Science
+- University of Toronto: Exchange student at Computer Science Department
+- Hong Kong Polytechnic University: Exchange student of product design summer session
 
 ### Honours
 
 - First prize in CUPT(China University Physics Tournament)
+<img src='cupt.jpg', width='20%' />
 - [Cargill global scholarship](https://www.cargillglobalscholars.com/)
