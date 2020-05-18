@@ -22,7 +22,8 @@
   
 2. Image processing algorithms implements
   * This project is meant to implements some classical alogorithms in image processing to get a deeper understanding of them.
-  * [View the project](https://github.com/doris-lessing/image-processing)
+  * [View the project of threshholding and interpulation](https://github.com/doris-lessing/image-processing)
+  * [View the project of image transformation](https://github.com/zhangyilang/ImageTransform)
   
 3. Spark project: Turkey's population data analysis
   * Analyse the leaked data of mernis database
