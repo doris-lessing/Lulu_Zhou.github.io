@@ -15,7 +15,7 @@
 
 ### Projects in progress
 
-1. Analysis of blockchain attacks based on reinforcement learning
+1. Analysis of blockchain attacks based on MDP
   * This project aims to analyse the resilience of the bitcoin system to several attacks using MDP model and simulation.
   * [View the project](https://github.com/doris-lessing/Selfish-Mining-Simulator)
   
@@ -23,6 +23,10 @@
 2. Image processing algorithms implements
   * This project is meant to implements some classical alogorithms in image processing to get a deeper understanding of them.
   * [View the project](https://github.com/doris-lessing/image-processing)
+  
+3. Spark project: Turkey's population data analysis
+  * Analyse the leaked data of mernis database
+  * [View the project](https://github.com/doris-lessing/spark_project)
   
   
 ### Earlier projects:
