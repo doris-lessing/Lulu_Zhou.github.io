@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Institution: Fudan University</b></p>
+      <p><b>Institution: Fudan University, Shanghai Qi Zhi Institute</b></p>
       <p><b>Major: Statistics (Data Science)</b></p>
     </td>
     <td width="25%">
@@ -46,6 +46,7 @@
 
 ### Work Experience
 - **Duke Kunshan University:** Teaching Assistant
+- **Shanghai Qi Zhi Institute:** Researcher
 
 ### Honours
 
