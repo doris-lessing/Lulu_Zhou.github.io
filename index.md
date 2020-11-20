@@ -44,7 +44,6 @@
 - **Fudan University:** Undergraduate student at School of Management & School of Data Science
 - **University of Toronto:** Exchange student at Computer Science Department
 - **Hong Kong Polytechnic University:** Exchange student of product design summer session
-- **Duke University:** Summer researcher
 
 ### Work Experience
 - **Duke Kunshan University:** Teaching Assistant
