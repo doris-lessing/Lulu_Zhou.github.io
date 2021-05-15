@@ -14,7 +14,7 @@
 </table>
 
 ### Projects in progress:
-1. Optimization of payment network channel
+1. Strategic behavior in payment network channel
   * Supervised by professor Zhixuan Fang, Tsinghua University
 
 ### Earlier projects:
