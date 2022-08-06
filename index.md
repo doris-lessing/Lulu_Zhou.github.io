@@ -14,8 +14,10 @@
 </table>
 
 ### Projects in progress:
-1. Strategic behavior in payment network channel
-  * Supervised by professor Zhixuan Fang, Tsinghua University
+1. Keyless Wallet
+  * Supervised by professor Fan Zhang and Michael Rieter
+2. Intermittent Mining
+  * Supervised by professor Fan Zhang and Ittay Eyal
 
 ### Earlier projects:
 
