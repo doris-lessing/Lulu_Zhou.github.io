@@ -4,8 +4,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Institution: Shanghai Qi Zhi Institute</b></p>
-      <p><b>Major: Statistics </b></p>
+      <p><b>Institution: Yale University</b></p>
+      <p><b>Major: Computer Science </b></p>
     </td>
     <td width="25%">
       <img src="./1.jpg" width="100%">      
