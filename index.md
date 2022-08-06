@@ -17,7 +17,7 @@
 1. Keyless Wallet
   * Supervised by professor Fan Zhang and Michael Rieter
 2. Intermittent Mining
-  * Supervised by professor Fan Zhang and Ittay Eyal
+  * Supervised by professor Fan Zhang and Ittay Eyal, joint work with Michael Mirkin
 
 ### Earlier projects:
 
