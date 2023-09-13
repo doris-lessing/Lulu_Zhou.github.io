@@ -16,13 +16,14 @@
 
 ### Publications:
 [View on Google Scholar](https://scholar.google.com/citations?user=Hx-AeMwAAAAJ&hl=en)
+1. Sprints: Intermittent Blockchain PoW Mining, M Mirkin, L Zhou, I Eyal, F Zhang [[pdf]](https://eprint.iacr.org/2023/626)
+2. Real-Time Recursive Routing in Payment Channel Network: A Bidding-based Design, J Liu, C Chen, L Zhou, Z Fang [[pdf]](https://dl.ifip.org/db/conf/wiopt/wiopt2022/1570807019.pdf)
 
 ### Projects in progress:
-1. Keyless Wallet
-  * Supervised by professor Fan Zhang and Michael Rieter
-2. Intermittent Mining
-  * Supervised by professor Fan Zhang and Ittay Eyal, joint work with Michael Mirkin
+1. TEE wallet
+  * Supervised by professor Fan Zhang and Michael Rieter, joint work with Zeyu Liu
 
+<!---
 ### Earlier projects:
 
 1. Analysis of blockchain mining strategy based on MDP
@@ -45,4 +46,4 @@
 5. Social network analysis in Chinese rural primary schools
   * We collected questionnaires about the background and social relationships of 227 primary school students when teaching as volunteers. This project focuses on the social network among the students.
   * [View the project](https://github.com/doris-lessing/social-network-mining)
-  
+-->
