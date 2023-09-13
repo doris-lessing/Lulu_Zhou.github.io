@@ -5,13 +5,16 @@
   <tr>
     <td width="75%">
       <p><b>Institution: Yale University</b></p>
-      <p><b>Major: Computer Science </b></p>
+      <p><b>Department: Computer Science </b></p>
     </td>
     <td width="25%">
       <img src="./1.jpg" width="100%">      
     </td>
   </tr>
 </table>
+
+### Pubilications:
+[View on Google Scholar](https://scholar.google.com/citations?user=Hx-AeMwAAAAJ&hl=en)
 
 ### Projects in progress:
 1. Keyless Wallet
@@ -42,19 +45,3 @@
   * We collected questionnaires about the background and social relationships of 227 primary school students when teaching as volunteers. This project focuses on the social network among the students.
   * [View the project](https://github.com/doris-lessing/social-network-mining)
   
-### Education
-- **Fudan University:** Undergraduate student at School of Management
-- **University of Toronto:** Exchange student of Art and Science
-- **Hong Kong Polytechnic University:** Exchange student of product design summer session
-
-### Work Experience
-- **Duke Kunshan University:** Teaching Assistant
-- **Shanghai Qi Zhi Institute:** Researcher
-
-### Honours
-
-- First prize in CUPT (China University Physics Tournament)
-
-  <img src="./0.jpg" width="20%" />
-
-- [Cargill global scholarship](https://www.cargillglobalscholars.com/)
