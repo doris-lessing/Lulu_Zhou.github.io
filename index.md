@@ -21,7 +21,7 @@
 
 ### Projects in progress:
 1. TEE wallet
-  * Supervised by professor Fan Zhang and Michael Rieter, joint work with Zeyu Liu
+  * Supervised by professor Fan Zhang and Michael Reiter, joint work with Zeyu Liu
 
 <!---
 ### Earlier projects:
