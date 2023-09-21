@@ -1,4 +1,4 @@
-## Lulu Zhou
+## Lulu Zhou (She/her)
 
 ### About me
 <table border="0">
