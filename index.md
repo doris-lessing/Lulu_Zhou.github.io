@@ -23,6 +23,10 @@
 1. TEE wallet
   * Supervised by professor Fan Zhang and Michael Reiter, joint work with Zeyu Liu
 
+### Other links:
+* My [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/CV_Lulu_Zhou_2024.pdf)
+* My [Twitter](https://twitter.com/LuluZhou14)
+
 <!---
 ### Earlier projects:
 
