@@ -60,7 +60,7 @@
   * [View the project of threshholding and interpulation](https://github.com/doris-lessing/image-processing)
   
 2. Spark project: Turkey's population data analysis
-  * Analyse the data using Spark. This is a homework project.
+  * Analyse a large dataset using Spark. 
   * [View the project](https://github.com/doris-lessing/spark_project)
   
 3. Social network analysis on Bilibili
