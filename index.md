@@ -23,9 +23,9 @@
 
 
 ### Other links:
-* My [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf)
-* My [LinkedIn](https://www.linkedin.com/in/lulu-zhou-303824170/)
-* My [Twitter](https://twitter.com/LuluZhou14)
+* [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf)
+* [LinkedIn](https://www.linkedin.com/in/lulu-zhou-303824170/)
+* [Twitter](https://twitter.com/LuluZhou14)
 
 ### Projects related to blockchain
 1. Ethereum Fast Confirmation Rule
