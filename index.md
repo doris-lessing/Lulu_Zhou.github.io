@@ -18,7 +18,7 @@
 [View on Google Scholar](https://scholar.google.com/citations?user=Hx-AeMwAAAAJ&hl=en)
 1. Sprints: Intermittent Blockchain PoW Mining, M Mirkin, L Zhou, I Eyal, F Zhang [[pdf]](https://eprint.iacr.org/2023/626)
 2. Real-Time Recursive Routing in Payment Channel Network: A Bidding-based Design, J Liu, C Chen, L Zhou, Z Fang [[pdf]](https://dl.ifip.org/db/conf/wiopt/wiopt2022/1570807019.pdf)
-3. CrudiTEE: A Stick-and-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs (AFT’24), L Zhou, Z Liu, F Zhang, and M Reiter [[pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.16/LIPIcs.AFT.2024.16.pdf)
+3. CrudiTEE: A Stick-and-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs (AFT’24), L Zhou, Z Liu, F Zhang, and M Reiter [[pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.16/LIPIcs.AFT.2024.16.pdf) [[slides]](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/CrudiTEE_Crypto_wallet.pdf)
 4. Mechanism Design for ZK-Rollup Prover Markets, W Wang, L Zhou, A Yaish, F Zhang, B Fisch, and B Livshits [[pdf]](https://arxiv.org/html/2404.06495v1)
 
 
