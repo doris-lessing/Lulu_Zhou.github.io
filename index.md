@@ -23,7 +23,8 @@
 
 
 ### Other links:
-* My [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/CV_Lulu_Zhou_2024.pdf)
+* My [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf)
+* My [LinkedIn](https://www.linkedin.com/in/lulu-zhou-303824170/)
 * My [Twitter](https://twitter.com/LuluZhou14)
 
 <!---
