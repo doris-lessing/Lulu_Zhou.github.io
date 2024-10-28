@@ -7,6 +7,9 @@
       <p><b>Institution: Yale University</b></p>
       <p><b>Department: Computer Science </b></p>
       <p><b>Research Interest: Blockchain, Security </b></p>
+      <p><b>Links: <a href="https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf">CV</a> |
+        <a href="https://www.linkedin.com/in/lulu-zhou-303824170/">LinkedIn</a>
+      </b></p>
     </td>
     <td width="25%">
       <img src="./my_photo.png" width="100%">      
@@ -22,10 +25,11 @@
 4. Mechanism Design for ZK-Rollup Prover Markets, W Wang, L Zhou, A Yaish, F Zhang, B Fisch, and B Livshits [[pdf]](https://arxiv.org/html/2404.06495v1)
 
 
+<!---*
 ### Other links:
 * [CV](https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf)
 * [LinkedIn](https://www.linkedin.com/in/lulu-zhou-303824170/)
-<!---* [Twitter](https://twitter.com/LuluZhou14) -->
+ [Twitter](https://twitter.com/LuluZhou14) -->
 
 ### Projects related to blockchain
 1. Ethereum Fast Confirmation Rule
