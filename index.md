@@ -6,7 +6,7 @@
     <td width="75%">
       <p><b>Institution: Yale University</b></p>
       <p><b>Department: Computer Science </b></p>
-      <p><b>Research Interest: Blockchain, Security </b></p>
+      <p><b>Email: zhoululu789 at gmail.com </b></p>
       <p><b>Links: <a href="https://github.com/luluzhou1/luluzhou1.github.io/blob/master/Resume_Lulu_Zhou_2024_Oct.pdf">CV</a> |
         <a href="https://www.linkedin.com/in/lulu-zhou-303824170/">LinkedIn</a>
       </b></p>
@@ -16,6 +16,9 @@
     </td>
   </tr>
 </table>
+
+### News:
+I will graduate with a Master's degree in December 2024 and am looking for software engineering or research positions.
 
 ### Publications:
 [View on Google Scholar](https://scholar.google.com/citations?user=Hx-AeMwAAAAJ&hl=en)
